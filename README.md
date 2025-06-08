@@ -1,2 +1,2 @@
-# Happy-Birthday-
+# Happy-Birthday
 このサイトは、今日誕生日の世界の誰かさんの誕生日を祝うサイトです！
